@@ -1,6 +1,10 @@
 ## VoidHack toolset
 Here are represented useful tools for CTF competitions. You can add new tools if you are convinced they can help in games.
 
+### Extra
+- [bless](http://home.gna.org/bless/): Bless is a binary (hex) editor, a program that enables you to edit files as a sequence of bytes written for the GNOME Desktop
+
+
 ### Reverse Engineering/Exploitation
 - [radare2](https://github.com/radare/radare2): (also known as r2) is a complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
 
@@ -20,7 +24,7 @@ Here are represented useful tools for CTF competitions. You can add new tools if
 ### Forensics
 - [volatility](https://github.com/volatilityfoundation/volatility): The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples.
 
-- [dd](https://en.wikipedia.org/wiki/Dd_(Unix_software): dd is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files.
+- [dd](https://en.wikipedia.org/wiki/Dd_(Unix_software)): dd is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files.
 
 - [cuckoo](https://github.com/cuckoosandbox/cuckoo): cuckoo is a malware analysis system. It means that you can throw any suspicious file at it and in a matter of seconds Cuckoo will provide you back some detailed results outlining what such file did when executed inside an isolated environment
 
