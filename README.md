@@ -62,6 +62,8 @@ Here are represented useful tools for CTF competitions. You can add new tools if
 
 - [sslstrip](https://github.com/moxie0/sslstrip/): sslstrip is a MITM tool that implements Moxie Marlinspike’s SSL stripping attacks
 
+- [sqlmap](https://github.com/sqlmapproject/sqlmap): sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+
 
 ### System
 - [pwntools](https://github.com/Gallopsled/pwntools/): pwntools is a CTF framework and exploit development library. Written in Python, it is designed for rapid prototyping and development, and intended to make exploit writing as simple as possible
