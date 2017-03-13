@@ -7,6 +7,8 @@
 
 - [peda](https://github.com/longld/peda): Python Exploit Development Assistance for GDB. Enhances the display of gdb and adds commands to support debugging and exploit development.
 
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): GDB dashboard enables a configurable dashboard showing the most relevant information during the program execution. Its main goal is to reduce the number of GDB commands issued to inspect the current program status allowing the programmer to focus on the control flow instead
+
 - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) ([github link](https://github.com/strace/strace)): is a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state.
 
 - [angr](http://angr.io/): angr is a python framework for analyzing binaries. It focuses on both static and dynamic symbolic ("concolic") analysis, making it applicable to a variety of tasks.
