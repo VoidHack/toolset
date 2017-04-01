@@ -16,3 +16,7 @@
 - [fdisk](https://www.gnu.org/software/fdisk/): fdisk is a dialog-driven program for creation and manipulation of partition tables. It understands GPT, MBR, Sun, SGI and BSD partition tables.
 
 - [TrID](http://mark0.net/soft-trid-e.html): TrID is an utility designed to identify file types from their binary signatures. While there are similar utilities with hard coded logic, TrID has no fixed rules. Instead, it's extensible and can be trained to recognize new formats in a fast and automatic way.
+
+-[gzsteg](http://www.nic.funet.fi/pub/crypt/steganography/gzsteg.tar.gz): utility to hide and extract information from gz archives.
+
+-[outguess](http://uncovering-cicada.wikia.com/wiki/OutGuess): OutGuess is a steganography application.
