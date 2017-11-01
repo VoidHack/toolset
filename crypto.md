@@ -8,3 +8,5 @@
 - [openssl](https://www.openssl.org/): OpenSSL is a general purpose cryptography library that provides an open source implementation of the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols.
 
 - [FeatherDuster](https://github.com/nccgroup/featherduster): is a tool used for breaking crypto which tries to make the process of identifying and exploiting weak cryptosystems as easy as possible.
+
+- [Cipher Tools](http://rumkin.com/tools/cipher/): Easy to use web-based text manipulation tools.
